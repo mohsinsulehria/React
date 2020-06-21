@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      React Native Testing Web Dev.
+      <h1>Testing Good Morning</h1>
     </div>
   );
 }
